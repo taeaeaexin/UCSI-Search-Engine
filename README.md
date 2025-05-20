@@ -6,7 +6,6 @@
 img
 
 ## 👥 Teams
-# ✨ 팀원 소개
 | Name | Picture | GitHub | Role | Part|
 |-|-|-|-|-|
 | Moon |  | [@taeaeaexin](https://github.com/taeaeaexin)  | All | FullStack |
